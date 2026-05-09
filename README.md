@@ -36,4 +36,3 @@ Setiap kali Anda melakukan *push* perubahan ke dalam folder `MLProject/` di bran
 3. Membangun image Docker model hasil pelatihan via `mlflow models build-docker`.
 4. Mendorong (push) image Docker tersebut ke Docker Hub.
 
-Trigger Workflow CI Action

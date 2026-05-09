@@ -25,5 +25,3 @@ if __name__ == "__main__":
         model.fit(X_train, y_train)
         score = model.score(X_test, y_test)
         print(f"[SUCCESS] CI Run Completed. Test Accuracy: {score:.4f}")
-# Trigger action CI
-# Trigger action CI again
